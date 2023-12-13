@@ -42,7 +42,7 @@ export default function Home() {
     <>
         <section className="mb-24 flex w-full justify-between items-center flex-col lg:flex-row px-8 lg:px-14 xl:px-16">
             <div className="text-white flex flex-col mt-10 lg:basis-[60%]">
-                <h1 className="text-2xl md:text-3xl lg:text-7xl leading-8 break-words font-bold capitalize">Software Solution <br /> <span className="text-branding-orange-500">For organizations.</span></h1>
+                <h1 className="text-2xl md:text-3xl lg:text-7xl leading-8 break-words font-bold capitalize">Offshore Team <br /> <span className="text-branding-orange-500">On Demand.</span></h1>
                 <p className="text-base lg:text-xl break-words  mt-10">Enhance your organization initiatives with our exclusive team of skilled software engineers, designers and managers.</p>
                 <ButtonLink link='/inquire' label='Get in touch!' style="w-[150px] mt-5 text-center"/>
             </div>

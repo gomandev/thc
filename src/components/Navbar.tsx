@@ -19,6 +19,10 @@ const NavbarLinks: NavbarLinksP[] = [
         label: 'about us'
     },
     {
+        link: '/',
+        label: 'home'
+    },
+    {
         link: 'portfolio',
         label: 'portfolio'
     },

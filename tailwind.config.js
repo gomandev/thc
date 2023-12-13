@@ -14,7 +14,10 @@ module.exports = {
         },
         'branding-orange': {
           500: '#FD9613'
-        }
+        },
+        primary: "#27292D", // From your website
+        secondary: "#42C02E", // From your website
+        accent: "#F7F7F7",
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
